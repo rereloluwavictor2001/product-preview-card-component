@@ -47,6 +47,8 @@ body {
     color:grey;
     margin-left:15px;
     font-size: 1;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
     text-decoration: line-through;
 }
 .first-container {
