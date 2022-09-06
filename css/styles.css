@@ -39,11 +39,9 @@ body {
     text-decoration: none;
 }
 #dollar {
-    display:inline;
     color:hsl(158, 36%, 37%);
 }
 .dollar {
-    display:inline;
     color:grey;
     margin-left:15px;
     font-size: 1;
