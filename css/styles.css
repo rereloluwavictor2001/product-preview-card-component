@@ -39,9 +39,11 @@ body {
     text-decoration: none;
 }
 #dollar {
+    display:inline;
     color:hsl(158, 36%, 37%);
 }
 .dollar {
+    display:inline;
     color:grey;
     margin-left:15px;
     font-size: 1;
@@ -79,11 +81,6 @@ p {
 }
 #perf {
     margin:0;
-}
-.price {
-    align-items:center;
-    display:flex;
-    flex-direction:row;
 }
 .second-container {
     border-top-right-radius: 8px;
